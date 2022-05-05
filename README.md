@@ -1,10 +1,7 @@
 # Oxford Dynamics Github Guidelines
-This repository stores the guidelines for working with Github at Oxford Dynamics. The purpose of this documentation is to provide transparancy and consistency in dealing with coding projects. It provides an introduction to Gitflow, describes the desired naming conventions and lists the responsible contact persons.
+This repository stores the guidelines for working with Github at Oxford Dynamics.
 
 The following internal repository already provides a basic introduction and shall be referred to at this point: 
-
-* [Introduction to Git](https://github.com/awkgroupag/Git-Know-How)
-
 
 ## Gitflow Workflow
 
@@ -66,18 +63,6 @@ git checkout master git merge hotfix_branch
 git checkout develop git merge hotfix_branch
 ```
 
-## Naming Convention
+## To-Check
 
-Each repository shall follow a distinct naming convention for clarity and ease of findability. Thereby, one distinguish between customer and internal projects. Furthermore, the naming shall also include the team (Team abbreviation: DA_AI, AI, DI or ORG) responsible for the maintenance of the repository.
-
-* Customer: *Projectnumber-Customer_Abbreviation-Projectname* (e.g. *114045046-ASTRA-Fahrzeit*)
-* Internal: *Team_Abbreviation-Technology_Platform-Projectname* (e.g. *DA_AI-Jupyter-DataLab_Stack*)
-
-## Best Practices
-
-* Use Gitflow (or feature branch workflow) if team size is large.
-* Do not leak secrets (API keys, login informations etc.) into source code.
-
-## Extensions of AWK Github
-
-- [ ] Github Enterprise for continuous integration, testing and delivery?
+- [ ] Github Enterprise
