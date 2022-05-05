@@ -10,9 +10,28 @@ These links covers the basics for managing and versioning your software projects
 
 In the following, the most common Git Bash commands are summarized:
 
-### Initialize a project folder with Git
+### Local Git initialization
+
+In case you want to start a project repository locally and update it to Github at a later stage. 
+
 ```console
 git init
+```
+
+### Adding changes to the staging area
+
+```console
+git add <new_files>
+```
+
+### Committing to the local repository
+```console
+git commit -m "<comment>"
+```
+
+### Updating the remote repository
+```console
+git push
 ```
 
 
