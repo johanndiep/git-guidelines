@@ -25,21 +25,25 @@ git add <new_files>
 ```
 
 ### Committing to the local repository
+
 ```console
 git commit -m "<comment>"
 ```
 
 ### Updating the remote repository
+
 ```console
 git push
 ```
 
 ### Updating a specific branch of the remote repository 
+
 ```console
 git push origin <branch>
 ```
 
 ### Updating local repository with a specific branch of the remote repository
+
 ```console
 git pull origin <branch>
 ```
