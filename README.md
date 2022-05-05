@@ -1,7 +1,19 @@
 # Oxford Dynamics Github Guidelines
+
 This repository stores the guidelines for working with Github at Oxford Dynamics.
 
-The following internal repository already provides a basic introduction and shall be referred to at this point: 
+##Introduction to Git
+
+This section covers the basic Git Bash commands for managing your projects and uploading your work on Github. Follow this [tutorial](https://www.theodinproject.com/lessons/foundations-setting-up-git) in order to install Git on your machine 
+
+
+
+
+
+
+
+
+
 
 ## Gitflow Workflow
 
