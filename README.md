@@ -34,6 +34,24 @@ git commit -m "<comment>"
 git push
 ```
 
+### Updating a specific branch of the remote repository 
+```console
+git push origin <branch>
+```
+
+### Updating local repository with a specific branch of the remote repository
+```console
+git pull origin <branch>
+```
+
+### Checking the current status 
+
+The git status command displays the state of the working directory and the staging area.
+
+```console
+git status
+```
+
 
 ## Gitflow Workflow
 
