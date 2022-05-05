@@ -4,16 +4,7 @@ This repository stores the guidelines for working with Github at Oxford Dynamics
 
 ##Introduction to Git
 
-This section covers the basic Git Bash commands for managing your projects and uploading your work on Github. Follow this [tutorial](https://www.theodinproject.com/lessons/foundations-setting-up-git) in order to install Git on your machine 
-
-
-
-
-
-
-
-
-
+This section covers the basic Git Bash commands for managing your projects and uploading your work on Github. Follow this [tutorial](https://www.theodinproject.com/lessons/foundations-setting-up-git) in order to create a Github account as well as install and setup Git on your laptop. 
 
 ## Gitflow Workflow
 
