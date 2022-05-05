@@ -18,7 +18,7 @@ In case you want to start a project repository locally and update it to Github a
 git init
 ```
 
-### Adding changes to the staging area
+### Adding changes to the staging area
 
 ```console
 git add <new_files>
