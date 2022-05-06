@@ -57,7 +57,6 @@ git status
 ```
 
 ### Checking a list of local branches
-
 ```console
 git branch
 ```
