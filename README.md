@@ -42,7 +42,7 @@ git push
 git push origin <branch>
 ```
 
-###Updating local repository with a specific branch of the remote repository
+### Updating local repository with a specific branch of the remote repository
 
 ```console
 git pull origin <branch>
