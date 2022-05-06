@@ -62,7 +62,7 @@ git status
 git branch
 ```
 
-###Creating a local branch
+### Creating a local branch
 
 ```console
 git branch <branch>
