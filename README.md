@@ -92,7 +92,7 @@ git fetch
 git merge <branch>
 ```
 
-## Gitflow
+## Development using the Gitflow Method
 
 ![Gitflow](https://i.imgur.com/pcb2IrK.png)
 
