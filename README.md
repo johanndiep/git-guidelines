@@ -89,14 +89,14 @@ git fetch
 ### Merging 
 
 ```console
-git merge
+git merge <branch>
 ```
 
-## Gitflow Workflow
+## Gitflow
 
 ![Gitflow](https://i.imgur.com/pcb2IrK.png)
 
-The goal is to encapsulate feature development in order to not disturb the main codebase. Instead of commiting directly to the master branch, developers create a seperate branches for a new features. In this context, Gitflow is a suggested workflow for managing larger projects with scheduled release cycle. Specifically, it assigns specific roles and interaction rules to different types of branches. For more information, refer to the following documentation by Bitbucket: 
+The goal is to encapsulate feature development in order to not disturb the main codebase. Instead of commiting directly to the master branch, developers create a seperate branches for a new features. In this context, Gitflow is a suggested workflow for managing larger projects. Specifically, it assigns specific roles and interaction rules to different types of branches. For more information, refer to the following documentation by Bitbucket: 
 
 * [Introduction to Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
@@ -155,3 +155,5 @@ git checkout develop git merge hotfix_branch
 ## To-Check
 
 - [ ] Github Enterprise
+- [ ] Simplified workflow
+- [ ] Trunk-based workflows
