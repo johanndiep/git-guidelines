@@ -56,18 +56,19 @@ The git status command displays the state of the working directory and the stagi
 git status
 ```
 
-### Checking a list of local branches
+###Checking a list of local branches
+
 ```console
 git branch
 ```
 
-### Creating a local branch
+###Creating a local branch
 
 ```console
 git branch <branch>
 ```
 
-### Changing to a local branch
+###Changing to a local branch
 
 ```console
 git checkout <branch>
@@ -79,13 +80,13 @@ Alternatively, if the branch does not exist yet:
 git checkout -b <branch>
 ```
 
-### Checking for remote updates
+###Checking for remote updates
 
 ```console
 git fetch
 ```
 
-### Merging 
+###Merging 
 
 ```console
 git merge
