@@ -56,7 +56,7 @@ The git status command displays the state of the working directory and the stagi
 git status
 ```
 
-###Checking a list of local branches
+### Checking a list of local branches
 
 ```console
 git branch
