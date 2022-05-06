@@ -154,6 +154,6 @@ git checkout develop git merge hotfix_branch
 
 ## To-Check
 
-- [ ] Github Enterprise
-- [ ] Simplified workflow
-- [ ] Trunk-based workflows
+- [ ] [Github Enterprise](https://github.com/enterprise?url=https://github.com/enterprise%3Futm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3D2022q3-adv-WW-Google_Search-eg_brand%26scid%3D7013o000002CdxYAAS&utm_source=google&utm_medium=ppc&utm_campaign=2022q3-adv-WW-Google_Search-eg_brand&scid=7013o000002CdxYAAS&gclid=CjwKCAjwjtOTBhAvEiwASG4bCAuyBQFsVCRh095QSd1sAcs341eVoIIGd-BrqQMH32JwRilwPCJFmxoCk0wQAvD_BwE)
+- [ ] [Simplified workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [ ] [Trunk-based workflows](https://trunkbaseddevelopment.com/)
