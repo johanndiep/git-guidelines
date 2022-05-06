@@ -68,7 +68,7 @@ git branch
 git branch <branch>
 ```
 
-###Changing to a local branch
+### Changing to a local branch
 
 ```console
 git checkout <branch>
@@ -80,13 +80,13 @@ Alternatively, if the branch does not exist yet:
 git checkout -b <branch>
 ```
 
-###Checking for remote updates
+### Checking for remote updates
 
 ```console
 git fetch
 ```
 
-###Merging 
+### Merging 
 
 ```console
 git merge
